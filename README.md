@@ -12,3 +12,9 @@ export TELEGRAM_BOT_TOKEN=""
 export ALLOWED_USER_ID=""  
 export PASS_PHRASE=""
 ```
+### windows
+```terminal
+set TELEGRAM_BOT_TOKEN=
+set ALLOWED_USER_ID=
+set PASS_PHRASE=
+```
