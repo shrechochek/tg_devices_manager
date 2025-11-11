@@ -25,5 +25,5 @@ set PASS_PHRASE=
 ```
 ### windows
 ```terminal
-.\tg_terminal
+.\tg_terminal.exe
 ```
