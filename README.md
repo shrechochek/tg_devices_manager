@@ -18,3 +18,12 @@ set TELEGRAM_BOT_TOKEN=
 set ALLOWED_USER_ID=
 set PASS_PHRASE=
 ```
+## and run it 
+### macOS
+```terminal
+.\tg_terminal
+```
+### windows
+```terminal
+.\tg_terminal
+```
