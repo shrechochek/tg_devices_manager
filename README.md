@@ -50,6 +50,12 @@ export SHARED_SECRET="..." #not necessary
 ./agent
 ```
 
-
+## now you can use this commands in telegram 
+```tg
+list
+exec <device_id> <command...>
+name <device_id> <new name>
+help
+```
 
 
