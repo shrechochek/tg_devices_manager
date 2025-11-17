@@ -5,6 +5,7 @@
 git clone https://github.com/shrechochek/tg_devices_manager
 cd tg_devices_manager
 ```
+# how to run one bot
 ## create variables
 ### macOS
 ```terminal
@@ -27,3 +28,5 @@ set PASS_PHRASE=
 ```terminal
 .\tg_terminal.exe
 ```
+
+# how to run multiple bots
