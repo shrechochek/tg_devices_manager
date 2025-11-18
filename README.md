@@ -29,7 +29,7 @@ set PASS_PHRASE= ...
 .\tg_terminal.exe
 ```
 
-# how to run multiple bots (only macos now)
+# how to run multiple bots (only macos now) (you need your own server)
 ## create variables for manager
 ### macOS
 ```terminal
