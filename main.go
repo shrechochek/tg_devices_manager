@@ -30,8 +30,7 @@ type TelegramResponse struct {
 }
 
 func main() {
-	// СОВЕТ: Никогда не храни токен прямо в коде. Используй переменные окружения.
-	botToken := "8370332280:AAETBUy-XoUfGX9S-XcYsMjOzEkD6aqnaJs"
+	botToken := os.Getenv("BOT_TOKEN")
 	offset := 0
 
 	fmt.Println("Бот-терминал запущен...")
